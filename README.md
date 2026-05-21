@@ -267,7 +267,6 @@ Contributions are welcome! Feel free to:
 
 - **Email**: contact@sportspulse.com
 - **Phone**: +91 6268385870
-- **Website**: www.sportspulse.com
 
 ## 🎯 Future Roadmap
 
