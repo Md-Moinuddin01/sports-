@@ -277,7 +277,6 @@ Contributions are welcome! Feel free to:
 
 - **Email**: contact@sportspulse.com
 - **Phone**: +91 6268385870
-- **Location**: Sports Complex, Mumbai, India
 - **Website**: www.sportspulse.com
 
 ## 🎯 Future Roadmap
