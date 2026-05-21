@@ -32,10 +32,7 @@ A premium, high-performance sports platform website built with cutting-edge tech
 - **Primary**: Neon Blue (#00D9FF)
 - **Accent**: Neon Red (#FF0055)
 - **Success**: Neon Green (#00FF88)
-- **Warning**: Neon Orange (#FF6B00)
-- **Background**: Dark (#0A0E27)
-- **Card**: Dark Card (#151B3A)
-
+- 
 ### Typography
 - **Font**: Poppins (Google Fonts)
 - **Weights**: 300, 400, 500, 600, 700, 800
