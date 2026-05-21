@@ -26,13 +26,6 @@ A premium, high-performance sports platform website built with cutting-edge tech
 - 📊 **Scalable Architecture** - State management with Zustand
 - ✨ **Accessibility** - WCAG compliant with semantic HTML
 
-## 🎨 Design System
-
-### Colors
-- **Primary**: Neon Blue (#00D9FF)
-- **Accent**: Neon Red (#FF0055)
-- **Success**: Neon Green (#00FF88)
-- 
 ### Typography
 - **Font**: Poppins (Google Fonts)
 - **Weights**: 300, 400, 500, 600, 700, 800
