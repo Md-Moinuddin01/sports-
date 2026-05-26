@@ -207,12 +207,6 @@ Current build size:
 - ⚡ Vite
 - 📅 date-fns
 
-## Community & Support
-
-- 🐛 Report bugs on GitHub Issues
-- 💬 Discuss features in Discussions
-- 📧 Email: contact@sportspulse.com
-
 ## Happy Coding! 🎉
 
 Build amazing sports experiences with SportsPulse!
