@@ -105,6 +105,7 @@ Edit `src/data/mockData.ts` to change:
 ✅ Safari (latest)
 ✅ Edge (latest)
 ✅ Mobile browsers
+✅ comming soon in IOS 😁
 
 ## Troubleshooting
 
@@ -207,11 +208,10 @@ Current build size:
 - ⚡ Vite
 - 📅 date-fns
 
-## Happy Coding! 🎉
+## Happy Coding!
 
 Build amazing sports experiences with SportsPulse!
 
----
 
 **Last Updated**: 2026
 **Version**: 1.0.0
