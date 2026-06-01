@@ -3,6 +3,7 @@
 > **Where Passion Meets Performance**
 
 A premium, high-performance sports platform website built with cutting-edge technology. SportsPulse is a next-generation sports ecosystem combining competition, technology, athlete growth, and community engagement.
+<img width="1869" height="939" alt="sport 123 project" src="https://github.com/user-attachments/assets/f90fd0ca-8945-4556-9f94-20448ecbdd3d" />
 
 ## 🚀 Features
 
@@ -125,6 +126,8 @@ sports/
 - Hover animations
 - Live participant count
 - Tournament information
+- <img width="1889" height="873" alt="sport123@" src="https://github.com/user-attachments/assets/a6838aaf-e6c5-47c9-a08e-3c4f873ae406" />
+
 
 ### Live Dashboard
 - Live match timer
@@ -144,12 +147,14 @@ sports/
 - Achievement badges
 - Performance ratings
 - Ranking system
+<img width="1886" height="884" alt="sport1234" src="https://github.com/user-attachments/assets/6bd4e379-2fe7-4c5f-8394-77cf5da2f006" />
 
 ### Community
 - Social posts with reactions
 - Comment system
 - Share functionality
 - Sport-specific discussions
+<img width="1874" height="890" alt="sport1234@" src="https://github.com/user-attachments/assets/50f62269-974e-49a8-9294-423160a748ac" />
 
 ### Achievements
 - Achievement unlock system
