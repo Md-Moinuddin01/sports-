@@ -1,7 +1,7 @@
 {
   "name": "sports-platform",
   "version": "1.0.0",
-  "description": "Modern high-performance sports platform - community, tournaments, live scores, and achievements",
+  "description": "Modern high-performance sports platform - All type community, tournaments, live scores, and achievements",
   "type": "module",
   "scripts": {
     "dev": "vite",
